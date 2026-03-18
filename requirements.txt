@@ -1,0 +1,13 @@
+langchain
+langchain-community
+langchain-openai
+langchain-pinecone
+langchain-huggingface
+langchain-core
+pinecone-client
+python-dotenv
+pypdf
+uvicorn[standard]
+pydantic
+python-multipart
+fastapi
